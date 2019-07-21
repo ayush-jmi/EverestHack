@@ -1,4 +1,5 @@
-# HackBMU2019_FuelHook
+#EverestHack2019
+#openchallenge
 
 *Fuel Hook* is an IOT based comprehensive vehicle fuel monitoring system. 
 The device accurately tracks the fuel transactions/exchanges taking place within the vehicle. 
