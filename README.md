@@ -15,7 +15,7 @@ This way the user will be able to access the exact location as well.
 2.	GPS Module
 3.	Arduino
 4.	GSM Module
-5.	7-segment display array
+
 
 **Main Software Components:**
 1.	Arduino IDLE
